@@ -2,7 +2,6 @@
 
 ## Table of Content.
  - [Project Overview.](#Table-of-Content.)
- - [Project Overview](#Project-Overview.)
  - [Data source.](#Data-source.)
  - [Tools.](#Tools.)  
  - [Data Cleaning/Preparation.](#Data-Cleaning/Preparation.)
