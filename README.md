@@ -1,10 +1,15 @@
 # E-Commerce-Sales-Analysis
 
-### Project Overview
+## Table of Content.
+ - [](#Table-of-Content.)
+ - [](#Project-Overview.)
+ - [](#Data-source.)
+
+### Project Overview.
 
 This data analysis projectbaims to provide insights into the sales perfomance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendation, and gain a deeper understanding of the company's perfomance.
 
-### Data source
+### Data source.
 
 Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
 
@@ -63,6 +68,9 @@ Based on the analysis, we recommend the following actions:
 ### Limitations
 I had to remove all zero values from budget and revenue colums because they would have affected the accuracy of my conclusions from the analysis. There are still a few outliers even after the omission despite that, we could still see there is a positive correlation between both budget and number of votes with revenue.
 
-### 
+### References
+
+ 1. SQL for businesses by werty.
+ 2. [Stack Overflow](https://stackoverflow.com)
  
    
