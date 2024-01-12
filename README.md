@@ -4,7 +4,7 @@
  - [Project Overview.](#Table-of-Content.)
  - [Data source.](#Project-Overview.)
  - [Data source.](#Data-source.)
- - - [](#Tools.)  
+ - [Tools.](#Tools.)  
  - [Data Cleaning/Preparation](#Data-Cleaning/Preparation.)
  - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
  - [Data Analysis](#Data-Analysis)
@@ -12,6 +12,9 @@
  - [Recommendations](#Recommendations)
  - [Limitations](#Limitations)
  - [References](#References)
+
+
+   
 ### Project Overview.
 
 This data analysis projectbaims to provide insights into the sales perfomance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendation, and gain a deeper understanding of the company's perfomance.
