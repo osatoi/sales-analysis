@@ -6,12 +6,12 @@
  - [Data source.](#Data-source.)
  - [Tools.](#Tools.)  
  - [Data Cleaning/Preparation](#Data-Cleaning/Preparation.)
- - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
- - [Data Analysis](#Data-Analysis)
- - [Results/Findings](#Results/Findings)
- - [Recommendations](#Recommendations)
- - [Limitations](#Limitations)
- - [References](#References)
+ - [Exploratory Data Analysis](#Exploratory-Data-Analysis.)
+ - [Data Analysis](#Data-Analysis.)
+ - [Results/Findings](#Results/Findings.)
+ - [Recommendations](#Recommendations.)
+ - [Limitations](#Limitations.)
+ - [References](#References.)
 
 
    
