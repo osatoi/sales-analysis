@@ -4,7 +4,14 @@
  - [Project Overview.](#Table-of-Content.)
  - [Data source.](#Project-Overview.)
  - [Data source.](#Data-source.)
-
+ - - [](#Tools.)  
+ - [Data Cleaning/Preparation](#Data-Cleaning/Preparation.)
+ - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
+ - [Data Analysis](#Data-Analysis)
+ - [Results/Findings](#Results/Findings)
+ - [Recommendations](#Recommendations)
+ - [Limitations](#Limitations)
+ - [References](#References)
 ### Project Overview.
 
 This data analysis projectbaims to provide insights into the sales perfomance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendation, and gain a deeper understanding of the company's perfomance.
@@ -13,13 +20,13 @@ This data analysis projectbaims to provide insights into the sales perfomance of
 
 Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
 
-### Tools
+### Tools.
 
 - Python pandas - Data Cleaning
 - SQL server - Data analysis
 - PowerBI - creating reports and Dashboard.
 
-### Data  Cleaning/Preparation
+### Data Cleaning/Preparation.
 
 In the initial Data Preparaton, we performed the following tasks:
  1. Data loading and inspection.
