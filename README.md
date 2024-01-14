@@ -1,16 +1,16 @@
 # E-Commerce-Sales-Analysis
 
 ## Table of Content.
- - [Project Overview.](#table-of-content.)
- - [Data source.](#data-source.)
- - [Tools.](#tools.)  
- - [Data Cleaning/Preparation.](#data-cleaning/preparation.)
- - [Exploratory Data Analysis.](#exploratory-data-analysis.)
- - [Data Analysis.](#data-analysis.)
- - [Results/Findings.](#results/findings.)
- - [Recommendations.](#recommendations.)
- - [Limitations.](#limitations.)
- - [References.](#references.)
+ - [Project Overview](#project-overview)
+ - [Data source](#data-source)
+ - [Tools](#tools)  
+ - [Data Cleaning/Preparation](#data-cleaning/preparation)
+ - [Exploratory Data Analysis](#exploratory-data-analysis)
+ - [Data Analysis](#data-analysis)
+ - [Results/Findings](#results/findings)
+ - [Recommendations](#recommendations)
+ - [Limitations](#limitations)
+ - [References](#references)
 
 
    
