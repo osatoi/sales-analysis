@@ -18,6 +18,10 @@
 
 This data analysis projectbaims to provide insights into the sales perfomance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendation, and gain a deeper understanding of the company's perfomance.
 
+![Dashboard](bar plot.PNG)
+
+
+
 ### Data source.
 
 Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
@@ -82,5 +86,18 @@ I had to remove all zero values from budget and revenue colums because they woul
 
  1. SQL for businesses by werty.
  2. [Stack Overflow](https://stackoverflow.com)
+
+
+
+🙂
+💓
+
+
+|Heading1|Heading2|
+|--------|--------|
+|content|content2|
+|python|sql|
+
+
  
    
