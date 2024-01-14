@@ -25,6 +25,7 @@ Sales Data: The primary dataset used for this analysis is the "sales_data.csv" f
 ### Tools.
 
 - Python pandas - Data Cleaning
+   - [Download here](https://jupyternotebook.com)
 - SQL server - Data analysis
 - PowerBI - creating reports and Dashboard.
 
