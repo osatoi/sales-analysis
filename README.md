@@ -91,6 +91,8 @@ I had to remove all zero values from budget and revenue colums because they woul
 
 🙂
 💓
+🍹
+🖐️
 
 
 |Heading1|Heading2|
